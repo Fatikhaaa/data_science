@@ -1,4 +1,4 @@
-Age,Sex,BMI,Children,Smoker,Region,Medical Cost
+Age,Sex,BMI,Children,Smoker,Region,Medical_Cost
 58,male,15.6,2,yes,northwest,17907.54
 24,male,29.8,0,yes,northeast,16312.64
 50,male,29.0,5,no,northwest,6819.21
